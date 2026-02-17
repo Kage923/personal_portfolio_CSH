@@ -12,9 +12,9 @@ import styles from './index.scss'
 const Home = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
 
-  const nameArray = 'Chan'.split('')
-  const jobArray = 'Backend developer'.split('')
-  const interestArray = 'Backend | DevOps '.split('')
+  const nameArray = ' Eric Chan'.split('')
+  const jobArray = 'Fullstack developer'.split('')
+  const interestArray = 'Fullstack | DevOps '.split('')
 
   useEffect(() => {
     const timer = setTimeout(() => {
