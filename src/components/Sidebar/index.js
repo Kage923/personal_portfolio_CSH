@@ -82,7 +82,7 @@ const Sidebar = () => {
               <FontAwesomeIcon icon={faGithub} color="#b9b9b9" />
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               href="https://www.codechef.com/users/metal_oopa"
               target="_blank"
@@ -90,7 +90,7 @@ const Sidebar = () => {
             >
               <img src={codechefLogo} width="24" alt="Codechef" />
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </>
