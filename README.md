@@ -20,25 +20,6 @@ A modern, interactive portfolio website showcasing my journey as a Software Deve
 - **Deployment**: Vercel
 - **Design**: Glassmorphism, Dark Theme
 
-## 📸 Screenshots
-
-### Home Page
-![Home](screenshots/home.png)
-
-### About Me
-![About](screenshots/about.png)
-
-### Work Experience
-![Experience](screenshots/experience.png)
-
-### Projects Showcase
-![Projects](screenshots/projects.png)
-
-### Skills & Technologies
-![Skills](screenshots/skills.png)
-
-### Contact Information
-![Contact](screenshots/contact.png)
 
 ## 🚀 Quick Start
 
